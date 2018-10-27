@@ -1,0 +1,8 @@
+The Hudson Basic V1.3 is a tape BASIC version for the MZ-80. It was written by HUDSONSOFT in the year 1980. Can be used too on the MZ-700 or the MZ-800 / 1500 in the 700-mode.
+
+Precision: 6 / 16 significant decimal figures ( e.g. 1 / 255 = 3.92157E-03; 1 / 256 = 3.90625E-03 for 6 s. f. ).
+
+There are two versions available for download ( may be the following first is a modified version ).
+
+Machines Supported:
+MZ-80K/C (and compatible machines, example is MZ-700)
