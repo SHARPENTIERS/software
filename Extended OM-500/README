@@ -1,0 +1,6 @@
+The Ext.Basic OM-500 is an extended BASIC version of the OM-500 for the MZ-80K ( no disk commands are supported ) and it was written by OMEGASOFT. Can be used too on MZ-700.
+
+Precision: 8 significant decimal figures ( e.g. 1 / 255 = .39215686E-02; 1 / 256 = .390625E-02 ).
+
+Machines Supported:
+MZ-80K/C (and compatible machines, example is MZ-700)
